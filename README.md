@@ -1,2 +1,2 @@
 # files
-hosts public files
+This page hosts different files
